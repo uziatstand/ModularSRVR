@@ -3,6 +3,7 @@ using System.Collections;
 
 public class wallmesh2 : MonoBehaviour {
 
+    // clone of wallmesh1.cs with a few numbers changed. Refer to that script for documentation
 	private Vector3[] vertices = new Vector3[4];
     private Vector2[] uv = new Vector2[4];
     private Vector3[] baseVert = new Vector3[4];
